@@ -4,4 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 flannel-cni-plugin:v1.5.1-flannel1
-flannel/flannel-cni-plugin:v1.5.1-flannel1
+#flannel/flannel-cni-plugin:v1.5.1-flannel1
+rancher/rancher:v2.5.15-linux-amd64
+flannel/flannel:v0.25.4
