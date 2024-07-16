@@ -8,4 +8,6 @@
 #rancher/rancher:v2.5.15-linux-amd64
 #flannel/flannel:v0.25.4
 #rancher/rancher-agent:v2.5.15
-rancher/pause:3.1
+#rancher/pause:3.1
+rancher/shell:v0.1.13
+rancher/coredns-coredns:1.8.3
