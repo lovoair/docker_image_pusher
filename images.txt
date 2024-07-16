@@ -9,5 +9,7 @@
 #flannel/flannel:v0.25.4
 #rancher/rancher-agent:v2.5.15
 #rancher/pause:3.1
-rancher/shell:v0.1.13
-rancher/coredns-coredns:1.8.3
+#rancher/shell:v0.1.13
+#rancher/coredns-coredns:1.8.3
+rancher/rancher:v2.7.10
+rancher/rancher-agent:v2.7.10
