@@ -7,4 +7,5 @@
 #flannel/flannel-cni-plugin:v1.5.1-flannel1
 #rancher/rancher:v2.5.15-linux-amd64
 #flannel/flannel:v0.25.4
-rancher/rancher-agent:v2.5.15
+#rancher/rancher-agent:v2.5.15
+rancher/pause:3.1
