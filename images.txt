@@ -11,5 +11,8 @@
 #rancher/pause:3.1
 #rancher/shell:v0.1.13
 #rancher/coredns-coredns:1.8.3
-rancher/rancher:v2.7.10
-rancher/rancher-agent:v2.7.10
+#rancher/rancher:v2.7.10
+#rancher/rancher-agent:v2.7.10
+rancher/mirrored-coredns-coredns:1.10.1
+rancher/klipper-lb:v0.4.3
+rancher/mirrored-pause:3.6
