@@ -15,4 +15,5 @@
 #rancher/rancher-agent:v2.7.10
 #rancher/mirrored-coredns-coredns:1.10.1
 #rancher/klipper-lb:v0.4.3
-rancher/mirrored-pause:3.6
+#rancher/mirrored-pause:3.6
+traefik:v2.9
