@@ -53,5 +53,7 @@ jimmidyson/configmap-reload:v0.5.0
 #quay.io/prometheus/prometheus:v2.36.1
 #quay.io/prometheus-operator/prometheus-config-reloader:v0.57.0
 
-dyrnq/nfs-subdir-external-provisioner:v4.0.2
+#dyrnq/nfs-subdir-external-provisioner:v4.0.2
+django:1.10-python3
+django:1.10.4-python2
 
