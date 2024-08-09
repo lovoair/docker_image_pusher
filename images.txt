@@ -27,7 +27,6 @@
 #rancher/rancher-webhook:v0.3.6
 #rancher/kubectl:v1.20.2
 #rancher/fleet-agent:v0.8.5
-
 #quay.io/prometheus/alertmanager:v0.25.0
 #quay.io/prometheus/blackbox-exporter:v0.23.0
 #jimmidyson/configmap-reload:v0.5.0
@@ -39,11 +38,9 @@
 #quay.io/brancz/kube-rbac-proxy:v0.14.0
 #quay.io/prometheus/prometheus:v2.41.0
 #quay.io/prometheus-operator/prometheus-config-reloader:v0.62.0
-
-
 #quay.io/prometheus/alertmanager:v0.24.0
 #quay.io/prometheus/blackbox-exporter:v0.21.0
-jimmidyson/configmap-reload:v0.5.0
+#jimmidyson/configmap-reload:v0.5.0
 #quay.io/brancz/kube-rbac-proxy:v0.12.0
 #grafana/grafana:8.5.5
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.5.0
@@ -52,8 +49,10 @@ jimmidyson/configmap-reload:v0.5.0
 #quay.io/prometheus-operator/prometheus-operator:v0.57.0
 #quay.io/prometheus/prometheus:v2.36.1
 #quay.io/prometheus-operator/prometheus-config-reloader:v0.57.0
-
 #dyrnq/nfs-subdir-external-provisioner:v4.0.2
-django:1.10-python3
-django:1.10.4-python2
-
+#django:1.10-python3
+#django:1.10.4-python2
+bitnami/redis-exporter:latest
+bitnami/nginx-exporter:latest
+bitnami/elasticsearch-exporter:latest
+bitnami/kafka-exporter:latest
