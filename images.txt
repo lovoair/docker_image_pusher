@@ -56,7 +56,9 @@
 #bitnami/nginx-exporter:latest
 #bitnami/elasticsearch-exporter:latest
 #bitnami/kafka-exporter:latest
-docker.io/calico/kube-controllers:v3.25.0
-docker.io/calico/pod2daemon-flexvol:v3.25.0
-docker.io/calico/typha:v3.25.0
-docker.io/calico/node-driver-registrar:v3.25.0
+#docker.io/calico/kube-controllers:v3.25.0
+#docker.io/calico/pod2daemon-flexvol:v3.25.0
+#ocker.io/calico/typha:v3.25.0
+#docker.io/calico/node-driver-registrar:v3.25.0
+docker.io/calico/cni:v3.25.0
+docker.io/calico/csi:v3.25.0
