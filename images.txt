@@ -65,4 +65,5 @@
 #docker.io/calico/node:v3.25.0
 #docker.io/calico/apiserver:v3.25.0
 #gitlab/gitlab-ce:latest
-gitea/gitea:1.21.1
+#gitea/gitea:1.21.1
+opsmanage-base:latest
