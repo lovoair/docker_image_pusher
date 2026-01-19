@@ -68,4 +68,6 @@
 #gitea/gitea:1.21.1
 #opsmanage-base:latest
 #mysql:5.7
-python:3.6-slim
+#python:3.6-slim
+jenkins/jenkins:2.546-slim-jdk25
+jenkins/jenkins:2.546-rhel-ubi9-jdk21
