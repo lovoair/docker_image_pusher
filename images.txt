@@ -69,5 +69,7 @@
 #opsmanage-base:latest
 #mysql:5.7
 #python:3.6-slim
-jenkins/jenkins:2.546-slim-jdk25
-jenkins/jenkins:2.546-rhel-ubi9-jdk21
+#jenkins/jenkins:2.546-slim-jdk25
+#jenkins/jenkins:2.546-rhel-ubi9-jdk21
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3
