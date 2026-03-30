@@ -75,4 +75,5 @@
 #eipwork/kuboard:v3
 #eipwork/kuboard-agent:v3
 #questdb/questdb:6.0.5
-elasticsearch:7.17.0
+#elasticsearch:7.17.0
+grafana/grafana:8.5.27
