@@ -78,4 +78,5 @@
 #elasticsearch:7.17.0
 #grafana/grafana:8.5.27
 #kibana:7.17.0
-docker.elastic.co/beats/metricbeat:7.17.0
+#docker.elastic.co/beats/metricbeat:7.17.0
+busybox:1.36
