@@ -81,4 +81,5 @@
 #docker.elastic.co/beats/metricbeat:7.17.0
 #busybox:1.36
 #nginx:1.24.0-alpine
-amazoncorretto:17
+#amazoncorretto:17
+ubuntu:24.04
